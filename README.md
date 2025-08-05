@@ -1,5 +1,9 @@
 # 💳 PayTrack Admin Panel   
-Live :[https://linkable.in/paytrack/](https://linkable.in/paytrack/) 
+👉 Try It Live: [https://linkable.in/paytrack/](https://linkable.in/paytrack/) 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunadrg/PayTrack_Admin_Panel/refs/heads/main/paytrack-logo-illustration.png" alt="PayTrack Admin Logo" width="400"/>
+</p>
 
 The **PayTrack Admin Panel** is a modern, responsive web application for managing **payment transaction records** with **full CRUD functionality**.  
 It acts as the backend management interface for the **PayTrack Android App**, allowing administrators to add, edit, delete, and view transactions in real time.
