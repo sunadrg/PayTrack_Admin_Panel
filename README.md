@@ -94,4 +94,4 @@ Perfect for:
 
 ## 🔗 Live Demo & Repository
 - 🌐 **Live Admin Panel:** [https://linkable.in/paytrack/](https://linkable.in/paytrack/)  
-- 📦 **Source Code Repository:** [GitHub - PayTrack Admin Panel](https://github.com/sunadrg/paytrack-backend)  
+- 📦 **Source Code Repository:** [GitHub - PayTrack Admin Panel](https://github.com/sunadrg/PayTrack_Admin_Panel)  
