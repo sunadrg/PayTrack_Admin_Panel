@@ -85,9 +85,9 @@ Perfect for:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/sunadrg/paytrack-backend/blob/main/screenshots/admin-dashboard.png" width="45%" />
-  <img src="https://github.com/sunadrg/paytrack-backend/blob/main/screenshots/add-transaction.png" width="45%" />
-  <img src="https://github.com/sunadrg/paytrack-backend/blob/main/screenshots/edit-transaction.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/sunadrg/PayTrack_Admin_Panel/refs/heads/main/Screenshot-1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/sunadrg/PayTrack_Admin_Panel/refs/heads/main/Screenshot-2.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/sunadrg/PayTrack_Admin_Panel/refs/heads/main/Screenshot-3.png" width="45%" />
 </p>
 
 ---
